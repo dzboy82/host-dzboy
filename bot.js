@@ -14,12 +14,6 @@ client.on('ready', () => {
    console.log(`Loadinng...`);
    console.log(`This Bots Online ' `);
    console.log(`----------------`);
-     client.setGame(`Idk `,'https://www.twitch.tv/dz27boy');
-  console.log('---------------');
-  console.log(' Bot Is Online')
-  console.log('---------------')
-});
-
 
 client.on('message', message => {
     if(message.content === '-راتب'){
